@@ -1,3 +1,3 @@
 # hello-world
 
-oi pessoal, manduca aqui. eu gosto de programação e estou aqui para aprender e compartilhar conhecimentos
+Oi pessoal, David Manduca falando aqui. Eu gosto de programação, e estou aqui para aprender, compartilhar conhecimentos e trabalhar!
