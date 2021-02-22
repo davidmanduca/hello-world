@@ -1,0 +1,21 @@
+pares=[]
+
+ímpares=[]
+
+num=int(input('Digite o número: '))
+
+while (num!=0):
+    
+    if (num%2==0):
+        
+        pares.append(num)
+    
+    else:
+        
+        ímpares.append(num)
+    
+    num=int(input('Digite o número: '))
+
+print(pares)
+
+print(ímpares)
